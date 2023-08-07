@@ -1,5 +1,7 @@
 # 상황
 
+![image](https://github.com/RyooChan/coffee_traffic_study/assets/53744363/5ed68651-1de4-4d47-8c0d-2ef4802ac361)
+
 * 다수의 서버에 다수의 인스턴스로 동작할 때에 어떻게 문제가 없도록 했는가?
     * server내부의 세션이나 인메모리 캐싱을 하지 않음.
     * 외부 Redis, MySql활용
